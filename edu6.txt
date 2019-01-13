@@ -1,0 +1,3 @@
+the file edu6 
+
+from the messgae hello
